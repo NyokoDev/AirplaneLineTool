@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Line Creator", "Flight Line Creator.csproj", "{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Debug|x86.ActiveCfg = Debug|x86
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Debug|x86.Build.0 = Debug|x86
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Release|x86.ActiveCfg = Release|x86
+		{3F345C94-6B63-4D8F-8A12-E1EBDAE831F3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4126646F-4B4E-4578-A29A-1862B1DFD75C}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TransportLinesManager.csproj
+	EndGlobalSection
+EndGlobal
